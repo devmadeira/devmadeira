@@ -6,9 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, Eu sou o Mateus Silveira.
-
-  - 🔭 Estou em busca de aprender cada vez mais sobre programação.
+  Hi 👋, Eu sou Mateus Silveira. Estou estudando algoritimo e Lógica de programação.
 </p>
 
 <!-- Dropdown -->

@@ -15,16 +15,16 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Tenho 22 anos, sempre tive uma certa curiosidade pelo meio, mas só agora essa ideia vem amadureendo na minha mente.
+  - 💬 Tenho 22 anos, sempre tive uma certa curiosidade pelo meio, mas só agora essa ideia vem amadurecendo na minha mente.
 
-  - ⚡ Gosto de ler, assistir e ir para academia, mas atualmente não faço nada disso. Espero mudar em breve. \o/
+  - ⚡ Gosto de ler, assistir e ir para academia, mas atualmente não faço nada disso. Espero mudar em breve.
 </details>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.eumateus?igsh=cHBzdjJvbHRrNmVp)
 
 <!--Estatísticas do Github-->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=devsilveira&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=devsilveira&show_icons=true&theme=dark)
 
 
 <!-- Portfolio -->

@@ -32,7 +32,7 @@
   <li>🔹 Iniciante em JavaScript</li>
   <li>🔹 Iniciante em Python</li>
 </ul>
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsilveira&layout=compact&theme=react)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devsilveira&layout=compact&theme=react)
 
 
 

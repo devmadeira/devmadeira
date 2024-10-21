@@ -32,7 +32,7 @@
   <li>🔹 Iniciante em JavaScript</li>
   <li>🔹 Iniciante em Python</li>
 </ul>
-## Estatísticas GitHub
+
 ## Estatísticas GitHub
 <p align="center">
   <!-- Estatísticas gerais do GitHub -->

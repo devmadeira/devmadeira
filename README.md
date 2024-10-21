@@ -33,14 +33,13 @@
   <li>🔹 Iniciante em Python</li>
 </ul>
 ## Estatísticas GitHub
+## Estatísticas GitHub
 <p align="center">
   <!-- Estatísticas gerais do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=devsilveira&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub">
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsilveira&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" style="display: inline-block; margin-right: 10px;">
+  
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsilveira&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsilveira&theme=dark" alt="GitHub Streak" style="display: inline-block;">
 </p>
 
 <p align="center">

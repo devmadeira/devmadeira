@@ -5,14 +5,6 @@
 
 <!-- Apresentação -->
 <p>Oi 👋, Eu sou Mateus Madeira, tenho 22 anos e sou aluno do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FIAP</strong>. Atualmente, estou estudando JavaScript e Python.</p>
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
-  <ul>
-    <li>💬 Tenho 22 anos</li>
-    <li>⚡ Gosto de ler, assistir filmes e séries, e ir à academia.</li>
-  </ul>
-</details>
 
 <!-- Portfolio -->
 <h2>Portfolio:</h2>

@@ -4,7 +4,7 @@
 </div>
 
 <!-- Apresentação -->
-<p>Hi 👋, Eu sou Mateus Madeira. Atualmente estou iniciando meus estudos em JavaScript e Python.</p>
+<p>Hi 👋, Eu sou Mateus Madeira. Atualmente estou iniciando meus estudos em JavaScript e Python. Além disso, sou aluno do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FIAP</strong>.</p>
 
 <!-- Dropdown -->
 <details>

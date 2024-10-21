@@ -35,17 +35,19 @@
 ## Estatísticas GitHub
 <p align="center">
   <!-- Estatísticas gerais do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=devsilveira&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsilveira&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub">
 </p>
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsilveira&theme=react" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsilveira&theme=dark" alt="GitHub Streak">
 </p>
 
 <p align="center">
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsilveira&layout=compact&theme=react" alt="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsilveira&layout=compact&theme=dark" alt="Linguagens mais usadas">
+</p>
+
 
 
 

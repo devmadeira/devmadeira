@@ -30,15 +30,19 @@
   <li>🔹 Iniciante em Python</li>
 </ul>
 
-## Estatísticas GitHub
+
+<!-- ## Estatísticas GitHub
 <p align="center">
+  
   <!-- Estatísticas gerais do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=devsilveira&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" style="display: inline-block; margin-right: 10px;">
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=devsilveira&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub">
+  <br> <!-- Quebra de linha -->
+ 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsilveira&theme=dark" alt="GitHub Streak" style="display: inline-block;">
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsilveira&theme=dark" alt="GitHub Streak">
 </p>
-<p align="center">
+ 
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsilveira&layout=compact&theme=dark" alt="Linguagens mais usadas">
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsilveira&layout=compact&theme=dark" alt="Linguagens mais usadas">
 </p>
 

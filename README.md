@@ -32,7 +32,7 @@
   <li>🔹 Iniciante em JavaScript</li>
   <li>🔹 Iniciante em Python</li>
 </ul>
-
+https://github.com/Devsilveira/Devsilveira?tab=readme-ov-file#-github-stats
 
 
  

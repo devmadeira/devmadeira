@@ -4,8 +4,7 @@
 </div>
 
 <!-- Apresentação -->
-<p>Hi 👋, Eu sou Mateus Madeira. Sou aluno do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FIAP</strong>. Atualmente estou iniciando meus estudos em JavaScript e Python.</p>
-
+<p>Hi 👋, Eu sou Mateus Madeira, tenho 22 anos e sou aluno do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FIAP</strong>. Atualmente, estou iniciando meus estudos em JavaScript e Python.</p>
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
